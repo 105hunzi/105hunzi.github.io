@@ -40,7 +40,7 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu: ning-meng-cheng-31-94
-  email: lemonchann@foxmail.com
+  email: 792169601@qq.com
   facebook:
   flickr:
   github: lemonchann 
@@ -65,8 +65,8 @@ disqus: # fromendworld
 gitalk:
   clientID: bd65d5c0df878155b7fa
   clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  repo: 105hunzi.github.io
+  owner: 105hunzi
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
